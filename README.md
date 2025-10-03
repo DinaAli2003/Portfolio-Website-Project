@@ -26,5 +26,5 @@ This project was developed as a key component of the Web Development course curr
 | **💅** | CSS3 | Styling and layout | **Modular CSS3 Styling:** Utilizing advanced layouts (e.g., Flexbox/Grid) for precise, maintainable, and visually appealing component design. |
 | **⚡** | JavaScript | Interactivity and dynamic features | **Client-Side Interactivity & Logic:** Implementing dynamic features and optimizing client-side performance. |
 
----
+
 
